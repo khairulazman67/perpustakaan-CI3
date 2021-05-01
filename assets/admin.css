@@ -1,0 +1,10 @@
+body{
+	background-color: #FAFAFA;
+	/*#FAFAFA*/
+}
+.nav-link:hover{
+	background-color: grey;
+}
+
+
+
